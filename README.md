@@ -7,31 +7,33 @@
 </p>
 
 # Hi! 👋
-I'm **Nevan Angelo Catoy.** I'm currently focused on finishing senior high, so I will be mostly inactive for now.
+I'm **Nevan Angelo Catoy.** I'm currently focused on finishing senior high, which is why this account is mostly inactive for now...
 
-Here are some technologies I have dabbled in: *(lists are not in any order)*
+Anyway, here are important stuff: *(lists are not in any order!)*
+
+Technologies I dabbled in:
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://web.dev/html)
 [![CSS](https://skillicons.dev/icons?i=css)](https://web.dev/css)
 [![JS](https://skillicons.dev/icons?i=js)](https://web.dev/javascript)
-[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org/)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
+[![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 
-And here are things I use:
+Stuff I use:
 
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
-[![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
+[![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
 
 ## Credits
 
-Icons by [**Skill Icons**](https://skillicons.dev/)
+Icons by [**Skill Icons**](https://skillicons.dev)
 
 Everthing else by [**yours truly**](https://github.com/ncvyn)
