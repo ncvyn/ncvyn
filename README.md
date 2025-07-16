@@ -7,11 +7,9 @@
 </p>
 
 # Hi! 👋
-I'm **Nevan Angelo Catoy.** I'm currently focused on finishing senior high, which is why this account is mostly inactive for now...
+I'm **Nevan Angelo Catoy.** I'm currently focusing on finishing senior high, which is why I'm mostly inactive here for now...
 
-Anyway, here are important stuff: *(lists are not in any order!)*
-
-Technologies I dabbled in:
+## Technologies I dabbled in:
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://web.dev/html)
 [![CSS](https://skillicons.dev/icons?i=css)](https://web.dev/css)
@@ -25,7 +23,7 @@ Technologies I dabbled in:
 [![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 
-Stuff I use:
+## Stuff I use:
 
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
 [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org)
