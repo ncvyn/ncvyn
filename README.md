@@ -22,6 +22,8 @@ I'm **Nevan Angelo Catoy.** I'm currently focusing on finishing senior high, whi
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
 [![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp)
+[![DotNET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us)
 
 ## Stuff I use:
 
