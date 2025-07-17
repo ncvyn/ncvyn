@@ -1,9 +1,9 @@
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="personal-logo-white.svg">
-      <source media="(prefers-color-scheme: light)" srcset="personal-logo-black.svg">
-      <img width="200" alt="Shows the personal logo of mine, which says Nevan - my name - in Baybayin script" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-    </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo/logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="logo/logo-black.svg">
+    <img width="200" alt="Shows the personal logo of mine, which says Nevan - my name - in Baybayin script" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
 </p>
 
 # Hi! 👋
@@ -16,6 +16,7 @@ I'm **Nevan Angelo Catoy.** I'm currently focusing on finishing senior high, whi
 [![JS](https://skillicons.dev/icons?i=js)](https://web.dev/javascript)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
