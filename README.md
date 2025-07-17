@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo/logo-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="logo/logo-black.svg">
-    <img width="200" alt="Shows the personal logo of mine, which says Nevan - my name - in Baybayin script" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    <source media="(prefers-color-scheme: dark)" srcset="logo/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="logo/logo-light.svg">
+    <img width="200" alt="Shows the personal logo of mine, which says Nevan - my name - in Baybayin script">
   </picture>
 </p>
 
@@ -20,11 +20,14 @@ I'm **Nevan Angelo Catoy.** I'm currently focusing on finishing senior high, whi
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
 [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
 [![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp)
 [![DotNET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
+<a href="https://idf.espressif.com">
+  <img alt="ESP-IDF" src="custom-icons/ESP-IDF.svg" width="48">
+</a>
 
 ## Stuff I use:
 
@@ -32,9 +35,14 @@ I'm **Nevan Angelo Catoy.** I'm currently focusing on finishing senior high, whi
 [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
+<a href="https://helix-editor.com">
+  <img alt="Helix" src="custom-icons/Helix.svg" width="48">
+</a>
 
 ## Credits
 
-Icons by [**Skill Icons**](https://skillicons.dev)
+Most of the icons by [**Skill Icons**](https://skillicons.dev)
 
-Everthing else by [**yours truly**](https://github.com/ncvyn)
+Custom icons¹ and everything else by [**yours truly**](https://github.com/ncvyn)
+
+###### ¹ESP-IDF, Helix
