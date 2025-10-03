@@ -20,10 +20,10 @@ I'm **Nevan Angelo Catoy.**
 
 ## Stuff I use:
 
-| [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows) | [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org) |
+| [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org) | [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org) |
 | :---: | :---: |
-| **Windows** on Desktop | **NixOS** on Thinkpad |
-| [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![VS](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) | [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) <a href="https://helix-editor.com"><img alt="Helix" src="custom-icons/Helix.svg" width="48"></a> |
+| **NixOS** on Desktop | **NixOS** on Thinkpad |
+| [![VSCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) | <a href="https://helix-editor.com"><img alt="Helix" src="custom-icons/Helix.svg" width="48"></a> |
 ## Credits
 
 Most of the icons by [**Skill Icons**](https://skillicons.dev)
