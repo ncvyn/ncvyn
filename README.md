@@ -7,16 +7,15 @@
 </p>
 
 # Hi! 👋
-I'm **Nevan Angelo Catoy.**
+I'm **Nevan Angelo Catoy,** a 16 year old future computer engineering student from the Philippines.
 
 ## Here are technologies I dabbled in:
 
 <!-- The table code looks terrible on the eyes, I know -->
 
-| Proficiency | Languages | Frameworks |
-| --- | --- | --- |
-| Proficient | [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org) [![TS](https://skillicons.dev/icons?i=ts)](https://web.dev/typescript) [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org) [![HTML](https://skillicons.dev/icons?i=html)](https://web.dev/html) [![CSS](https://skillicons.dev/icons?i=css)](https://web.dev/css) | [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com) |
-| Familiar |  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org) [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/) |  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc) <a href="https://idf.espressif.com"><img alt="ESP-IDF" src="custom-icons/ESP-IDF.svg" width="48"></a> [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/) |
+| Languages | Frameworks |
+| --- | --- |
+| [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org) [![HTML](https://skillicons.dev/icons?i=html)](https://web.dev/html) [![CSS](https://skillicons.dev/icons?i=css)](https://web.dev/css) [![JS](https://skillicons.dev/icons?i=js)](https://web.dev/javascript) [![TS](https://skillicons.dev/icons?i=ts)](https://web.dev/typescript) [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org) [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/) [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) | [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev) [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com) [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc) <a href="https://idf.espressif.com"><img alt="ESP-IDF" src="custom-icons/ESP-IDF.svg" width="48"></a>  |
 
 ## Stuff I use:
 
@@ -28,6 +27,6 @@ I'm **Nevan Angelo Catoy.**
 
 Most of the icons by [**Skill Icons**](https://skillicons.dev)
 
-Custom icons¹ and everything else by [**yours truly**](https://github.com/ncvyn)
+Custom icons¹ and everything else by [**me!**](https://github.com/ncvyn)
 
 ###### ¹ESP-IDF, Helix
