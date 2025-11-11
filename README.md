@@ -7,7 +7,7 @@
 </p>
 
 # Hi! 👋
-I'm **Nevan Angelo Catoy,** a 16 year old future computer engineering student from the Philippines.
+I'm **Nevan Angelo Catoy,** a 17 year old future computer engineering student from the Philippines.
 
 ## Here are technologies I dabbled in:
 
