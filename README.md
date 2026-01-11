@@ -21,16 +21,6 @@ I'm **Nevan Angelo Catoy,** a 17 year old future computer engineering student ba
 | :-- |
 | [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev) [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com) [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc) <a href="https://idf.espressif.com"><img alt="ESP-IDF" src="custom-icons/ESP-IDF.svg" width="48"></a>  |
 
-## Stuff I use
-
-| [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org) | [![NixOS](https://skillicons.dev/icons?i=nix)](https://nixos.org) |
-| :---: | :---: |
-| **NixOS** on Desktop | **NixOS** on Thinkpad |
-| [![VSCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) | <a href="https://helix-editor.com"><img alt="Helix" src="custom-icons/Helix.svg" width="48"></a> |
-## Credits
-
 Most of the icons are from [**Skill Icons**](https://skillicons.dev)
 
-Custom icons¹ and everything else by [**me!**](https://github.com/ncvyn)
-
-###### ¹ESP-IDF, Helix
+ESP-IDF icon by [**me**](https://github.com/ncvyn)
