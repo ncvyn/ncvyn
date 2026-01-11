@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="logo/logo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="svg/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="svg/logo-light.svg">
     <img width="200" alt="The personal logo of mine which says Nevan in Baybayin script">
   </picture>
 </p>
@@ -19,7 +19,7 @@ I'm **Nevan Angelo Catoy,** a 17 year old future computer engineering student ba
 
 | Frameworks |
 | :-- |
-| [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev) [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com) [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc) <a href="https://idf.espressif.com"><img alt="ESP-IDF" src="custom-icons/ESP-IDF.svg" width="48"></a>  |
+| [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev) [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com) [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc) <a href="https://idf.espressif.com"><img alt="ESP-IDF" src="svg/ESP-IDF.svg" width="48"></a>  |
 
 Most of the icons are from [**Skill Icons**](https://skillicons.dev)
 
